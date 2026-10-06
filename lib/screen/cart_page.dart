@@ -35,7 +35,7 @@ class CartPage extends StatelessWidget {
                     Container(
                       margin: const EdgeInsets.only(bottom: 10.0),
                       padding: const EdgeInsets.all(10.0),
-                      color: Colors.grey,
+                      color: Colors.grey[200],
                       child: Row(
                         children: [
                           const Icon(Icons.shopping_bag, size: 40, color: Colors.black),

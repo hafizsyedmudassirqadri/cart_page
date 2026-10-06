@@ -32,11 +32,11 @@ class HomePage extends StatelessWidget {
               child: Center(
                 child: Column(
                   children: [
-                    const Icon(Icons.home, size: 80, color: Colors.blue),
+                    const Icon(Icons.home, size: 200, color: Colors.blue),
                     const Padding(
                       padding: EdgeInsets.all(10.0),
                       child: Text(
-                        "Welcome to our Simple Store!",
+                        "Welcome to my Simple Store!",
                         style: TextStyle(
                           fontSize: 18,
                           color: Colors.black,
